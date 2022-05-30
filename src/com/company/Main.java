@@ -20,10 +20,9 @@ public class Main {
 
         int result=0;
         if (sign.equals("+")){
-            Add.add(a,b);
+
         }else if(sign.equals("-")){
-            result=a-b;
-            System.out.println("Result="+result);
+
         }else if(sign.equals("*")){
             //Multi.multi(a,b);
         }

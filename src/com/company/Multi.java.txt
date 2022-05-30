@@ -1,8 +1,0 @@
-package com.company;
-
-public class Multi{
-   public static void Multi(int a, int b){
-	int result = a * b;
-	System.out.println(result);
-    }
-}
