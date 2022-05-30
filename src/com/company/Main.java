@@ -22,7 +22,7 @@ public class Main {
         if (sign.equals("+")){
 
         }else if(sign.equals("-")){
-        	
+        	Minus.minus(a, b);
         	}else if(sign.equals("*")){
             //Multi.multi(a,b);
         }
